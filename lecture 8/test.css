@@ -1,0 +1,33 @@
+/* p{
+    text-align: center;
+} */
+
+/* #myParagraph{
+    text-align: center;
+} */
+
+/* 
+.center-paragraph{
+    text-align: center;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+/* p, h1, .center-paragraph{
+    text-align: center;
+    color: brown; 
+} */
+
+/* div p{
+    background-color: yellow;
+} */
+
+/* div > p{
+    background-color: cyan;
+} */
+
+a[target]{
+    color: cyan;
+}
